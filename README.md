@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo&size=50&duration=2000&pause=1&color=7a00ff&center=true&vCenter=true&random=false&width=1000&lines=Hi+im+aesty)](https://git.io/typing-svg)
 - 🟣 im a software engineering student from Brazil
 - 🌑 I’m currently learning python and js
-- 🤝 I’m looking to collaborate on ANYYTHING!
+- 🤝 I’m looking to collaborate on ANYTHING!
 - 💜 dm me on discord aesty.
 
 
